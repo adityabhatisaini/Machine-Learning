@@ -1,26 +1,80 @@
 Weight,Height,Class
 51,167,Underweight
-66,177,Normal
+66,177,Normal weight
 75,169,Overweight
-69,176,Normal
+69,176,Normal weight
 50,173,Underweight
 82,170,Overweight
-65,172,Normal
+65,172,Normal weight
 58,180,Underweight
 68,162,Overweight
-63,165,Normal
+63,165,Normal weight
 52,174,Underweight
-58,169,Normal
+58,169,Normal weight
 78,162,Overweight
-65,168,Normal
+65,168,Normal weight
 62,183,Underweight
-72,180,Normal
+72,180,Normal weight
 80,180,Overweight
 60,178,Underweight
-57,173,Normal
+57,173,Normal weight
 73,164,Overweight
 53,170,Underweight
-74,182,Normal
+74,182,Normal weight
 72,175,Overweight
-53,163,Normal
+53,163,Normal weight
 55,180,Underweight
+155,50,Normal weight
+156,60,Normal weight
+157,65,Overweight
+158,70,Overweight
+160,50,Normal weight
+161,55,Normal weight
+162,60,Normal weight
+163,65,Overweight
+164,70,Overweight
+165,75,Overweight
+165,50,Underweight
+166,55,Normal weight
+167,60,Normal weight
+168,65,Normal weight
+169,70,Overweight
+170,75,Overweight
+171,80,Overweight
+170,50,Underweight
+171,55,Normal weight
+172,60,Normal weight
+173,65,Normal weight
+174,70,Normal weight
+175,75,Overweight
+176,80,Overweight
+177,85,Overweight
+175,50,Underweight
+176,55,Normal weight
+177,60,Normal weight
+178,65,Normal weight
+179,70,Normal weight
+180,75,Normal weight
+181,80,Overweight
+182,85,Overweight
+183,90,Overweight
+180,50,Underweight
+181,55,Underweight
+182,60,Normal weight
+183,65,Normal weight
+184,70,Normal weight
+185,75,Normal weight
+186,80,Normal weight
+187,85,Overweight
+188,90,Overweight
+185,50,Underweight
+186,55,Underweight
+187,60,Underweight
+188,65,Normal weight
+189,70,Normal weight
+190,75,Normal weight
+191,80,Normal weight
+192,85,Normal weight
+193,90,Overweight
+194,95,Overweight
+195,100,Overweight
